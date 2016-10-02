@@ -19,7 +19,7 @@ This sample uses the Gradle build system. To build this project, use the
 
 Topics Covered
 -------
-
+- Data Binding
 - Callbacks & Listeners
 - Array List
 - List View
